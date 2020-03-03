@@ -6,5 +6,6 @@
 ### - Luego De Haber Creado El Nuevo Proyecto Seleccionamos La Opcion Activity_main.xml y luego abrimos El Layout
 ### - Por Defecto El Layout Tiene El Hola Mundo Realizado Por Ende Solo Debemos Compilar
 ### - Para Compilar Debemos Usar Nuestro Dispositivo Movil Con Android o Usar El Emulador De Android
-### - Y Listo Tenemos Nuestro Hola Mundo.
+> el cual son con otras configuraciones
+### - Y Asi Tenemos nuestro primer Hola Mundo.
 ##### © 2020 GitHub, Inc.
